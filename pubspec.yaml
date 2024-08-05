@@ -1,0 +1,39 @@
+name: spendwise
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  google_nav_bar: ^5.0.6
+  cloud_firestore: ^4.8.0
+  firebase_auth: ^4.6.2
+  firebase_core: ^2.13.1
+  firebase_auth_dart: ^1.0.1
+  firebase_database: ^10.2.2
+  firebase_storage: ^11.2.2
+  google_sign_in: ^6.1.4
+  url_launcher: ^6.0.12
+  pie_chart: ^5.3.2
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
