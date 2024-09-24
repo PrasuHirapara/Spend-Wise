@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "544943335395",
+    "project_id": "spendwise-847d3",
+    "storage_bucket": "spendwise-847d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544943335395:android:3fdf1ebd21c60f252462d6",
+        "android_client_info": {
+          "package_name": "com.prasu.SpendWise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544943335395-vjssndul9kp677967b5vb0rveaf0ls10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prasu.SpendWise",
+            "certificate_hash": "26dd9de90e00713a923075d0fc3d16096b82314d"
+          }
+        },
+        {
+          "client_id": "544943335395-16n5g1k8su2rjfqojkrnt6h361jsapun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6t1s2a_Wo2r1BmxGFxKGCu8auMTQXfFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544943335395-16n5g1k8su2rjfqojkrnt6h361jsapun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
